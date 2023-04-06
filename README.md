@@ -3,7 +3,7 @@
 Este é um projeto desenvolvido por Rodrigo Balestrin para demonstrar suas habilidades em Desenvolvimento Front End. O portfólio foi construído com HTML, CSS, JavaScript e Bootstrap. O projeto é bem informativo e visualmente agradável.
 
 
-## : foguete : Tecnologias 
+## : rocket : Tecnologias 
 
 -   [ HTML ]
 -   [ CSS ]
